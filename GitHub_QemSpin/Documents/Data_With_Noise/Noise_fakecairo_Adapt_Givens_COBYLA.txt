@@ -1,0 +1,10 @@
+Noise_model: fakecairo, seeds = 20,Time = 1860.527229309082, energy = [-78.10022437], Error rate: [0.8768946], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakecairo, seeds = 21,Time = 1991.3593211174011, energy = [-78.09958102], Error rate: [0.87775946], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakecairo, seeds = 30,Time = 1984.908626317978, energy = [-78.09500406], Error rate: [0.88391235], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakecairo, seeds = 33,Time = 1977.050974369049, energy = [-78.09497916], Error rate: [0.88394583], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakecairo, seeds = 36,Time = 2309.5323009490967, energy = [-78.095081], Error rate: [0.88380892], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakecairo, seeds = 42,Time = 1861.2724375724792, energy = [-78.09158803], Error rate: [0.88850459], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakecairo, seeds = 43,Time = 1982.3854939937592, energy = [-78.09132378], Error rate: [0.88885983], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakecairo, seeds = 55,Time = 2036.7865617275238, energy = [-78.09185928], Error rate: [0.88813994], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakecairo, seeds = 67,Time = 2028.4359064102173, energy = [-78.10491692], Error rate: [0.87058632], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakecairo, seeds = 170,Time = 1963.1027662754059, energy = [-78.11426524], Error rate: [0.85801919], optimizer = COBYLA, Ansatz = Adapt_Givens 

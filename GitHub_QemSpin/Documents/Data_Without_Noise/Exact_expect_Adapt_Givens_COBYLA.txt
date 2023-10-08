@@ -1,0 +1,1 @@
+seeds = 20,Time = 76.07367038726807, energy = [-78.68560541], Error rate: [0.08995617],parameters = [-0.011083726509321885, 0.06713069024908076] optimizer = COBYLA, Ansatz = Adapt_Givens 

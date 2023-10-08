@@ -1,0 +1,4 @@
+Noise_model: fakemontreal, seeds = 20,Time = 1921.6542150974274, energy = [-77.44197995], Error rate: [1.7617846], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakemontreal, seeds = 21,Time = 1921.3255679607391, energy = [-77.44096838], Error rate: [1.76314447], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakemontreal, seeds = 30,Time = 1920.7654044628143, energy = [-77.43774312], Error rate: [1.76748025], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakemontreal, seeds = 33,Time = 1927.2943863868713, energy = [-77.43770462], Error rate: [1.767532], optimizer = COBYLA, Ansatz = Adapt_Givens 

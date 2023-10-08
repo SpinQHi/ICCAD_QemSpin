@@ -1,0 +1,10 @@
+Noise_model: fakekolkata, seeds = 20,Time = 2092.046721458435, energy = [-77.6744086], Error rate: [1.44932652], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakekolkata, seeds = 21,Time = 1962.979079246521, energy = [-77.67369021], Error rate: [1.45029226], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakekolkata, seeds = 30,Time = 1971.804033756256, energy = [-77.66943168], Error rate: [1.45601708], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakekolkata, seeds = 33,Time = 2098.1366300582886, energy = [-77.67008752], Error rate: [1.45513543], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakekolkata, seeds = 36,Time = 2150.1438417434692, energy = [-77.67018343], Error rate: [1.45500649], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakekolkata, seeds = 42,Time = 1965.235594511032, energy = [-77.66596557], Error rate: [1.46067664], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakekolkata, seeds = 43,Time = 1849.0401561260223, energy = [-77.66526772], Error rate: [1.46161477], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakekolkata, seeds = 55,Time = 2434.3255813121796, energy = [-77.66375773], Error rate: [1.46364467], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakekolkata, seeds = 67,Time = 1981.7457468509674, energy = [-77.67234509], Error rate: [1.45210053], optimizer = COBYLA, Ansatz = Adapt_Givens 
+Noise_model: fakekolkata, seeds = 170,Time = 1919.9944741725922, energy = [-77.67720351], Error rate: [1.44556927], optimizer = COBYLA, Ansatz = Adapt_Givens 
