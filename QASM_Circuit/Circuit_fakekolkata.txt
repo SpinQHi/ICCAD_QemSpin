@@ -1,0 +1,53 @@
+OPENQASM 2.0;
+include "qelib1.inc";
+qreg circ[12];
+
+x circ[0];
+x circ[1];
+x circ[2];
+x circ[3];
+x circ[4];
+x circ[6];
+x circ[7];
+x circ[8];
+x circ[9];
+
+cx circ[10],circ[11]
+
+cx circ[10],circ[11];
+cx circ[1],circ[10];
+h circ[11];
+h circ[1];
+cx circ[10],circ[11];
+cx circ[1],circ[2];
+ry(-0.11511933211321768) circ[2];
+ry(-0.11511933211321768) circ[1];
+cx circ[1],circ[11];
+
+h circ[11];
+cx circ[11],circ[2];
+ry(-0.11511933211321768) circ[2];
+ry(-0.11511933211321768) circ[1];
+cx circ[10],circ[2];
+cx circ[10],circ[1];
+ry(-0.11511933211321768) circ[2];
+ry(-0.11511933211321768) circ[1];
+cx circ[11],circ[2];
+
+h circ[11];
+cx circ[1],circ[11];
+ry(-0.11511933211321768) circ[2];
+ry(-0.11511933211321768) circ[1];
+cx circ[1],circ[2];
+cx circ[10],circ[1];
+h circ[1];
+h circ[11];
+cx circ[1],circ[10];
+cx circ[10],circ[11];
+
+cx circ[6],circ[10];
+ry(0.012391014094485356) circ[6];
+cx circ[10],circ[6];
+ry(0.012391014094485356) circ[6];
+cx circ[10],circ[6];
+cx circ[6],circ[10];
